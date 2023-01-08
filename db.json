@@ -3,17 +3,22 @@
     {
       "id": 2,
       "label": "Learn Java",
-      "completed": false
+      "completed": true
     },
     {
       "label": "Learn Angular",
-      "completed": false,
+      "completed": true,
       "id": 3
     },
     {
       "label": "Learn JEE",
       "completed": true,
       "id": 4
+    },
+    {
+      "label": "Learn Spring Cloud",
+      "completed": false,
+      "id": 5
     }
   ]
 }
